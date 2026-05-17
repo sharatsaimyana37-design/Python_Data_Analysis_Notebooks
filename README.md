@@ -1,23 +1,49 @@
-# Python Data Analysis Notebooks
+# Python Data Analysis Practice Repository
 
-This repository contains my Python practice notebooks focused on building the core skills required for Data Analytics and Data Science.
+Welcome to my Python Data Analysis practice repository.
 
-The notebooks cover hands-on practice with Python libraries, data cleaning, data manipulation, visualization, and exploratory data analysis using real datasets and exercises.
+This repository contains a collection of Jupyter notebooks created while learning and practicing the core concepts required for Data Analytics and Data Science. The notebooks include hands-on exercises, data cleaning techniques, exploratory data analysis, and data visualization using Python libraries and real-world datasets.
 
 ---
 
-## Skills Practiced
+# Objectives
 
-- Python Programming
+- Strengthen Python programming skills
+- Practice data analysis workflows
+- Improve problem-solving using datasets
+- Learn industry-relevant data analysis tools
+- Build a strong foundation for Data Analytics
+
+---
+
+# Skills Practiced
+
+## Python Fundamentals
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Functions
+- Lists, Tuples, Dictionaries, Sets
+
+## Data Analysis
+- Reading CSV and Excel files
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Data Manipulation
-- Statistical Analysis
+- Handling Missing Values
+- Filtering and Sorting Data
+- GroupBy Operations
+- Aggregation Functions
+- Data Transformation
+
+## Data Visualization
+- Line Charts
+- Bar Charts
+- Histograms
+- Scatter Plots
+- Basic Dashboard Visualizations
 
 ---
 
-## Libraries Used
+# Libraries Used
 
 - Pandas
 - NumPy
@@ -27,55 +53,15 @@ The notebooks cover hands-on practice with Python libraries, data cleaning, data
 
 ---
 
-## Topics Covered
+# Repository Structure
 
-### Python Fundamentals
-- Variables and Data Types
-- Loops and Conditions
-- Functions
-- Lists, Tuples, Dictionaries
-
-### Data Analysis
-- Reading CSV/Excel files
-- Data Cleaning
-- Handling Missing Values
-- Filtering and Sorting
-- GroupBy Operations
-- Aggregations
-
-### Data Visualization
-- Line Charts
-- Bar Charts
-- Histograms
-- Scatter Plots
-
-### Practice Datasets
-- Sales Data
-- Job Market Data
-- Customer Data
-- Coffee Shop Sales Data
-
----
-
-## Purpose of This Repository
-
-The goal of this repository is to strengthen my Python and data analysis skills through consistent hands-on practice and real-world datasets.
-
-This repository documents my learning journey toward becoming a Data Analyst.
-
----
-
-## Tools Used
-
-- Python
-- Jupyter Notebook
-- VS Code
-
----
-
-## Future Improvements
-
-- Add advanced EDA projects
-- Add machine learning notebooks
-- Add dashboard integrations
-- Improve notebook documentation
+```text
+Python_Data_Analysis_Notebooks/
+│
+├── Python Basics
+├── Pandas Practice
+├── NumPy Practice
+├── Data Cleaning
+├── Exploratory Data Analysis
+├── Data Visualization
+└── Practice Datasets
